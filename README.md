@@ -14,3 +14,6 @@ For MinersCreator - 0.8.1
 <code>npx hardhat run --network blastSepolia scripts/deploy.ts</code>
 
 That is all.
+
+[Github of site with this smartcontracts](https://github.com/denis-skripnik/dpos.space), [deractory of pages](https://github.com/denis-skripnik/dpos.space/tree/master/blockchains/evm).
+[Game contract](https://github.com/denis-skripnik/rockPaperScissors).
